@@ -26,7 +26,7 @@ class _ImageRoute extends State<ImageRoute> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                Image.asset("images/download (1).jpg", width: 400),
+                Image.asset("assets/images/download (1).jpg", width: 400),
               ],
             ),
           ),
@@ -40,7 +40,7 @@ class _ImageRoute extends State<ImageRoute> {
             child: Column(
               mainAxisAlignment: MainAxisAlignment.spaceAround,
               children: [
-                Image.asset("images/download.jpg", width: 400),
+                Image.asset("asstets/images/download.jpg", width: 400),
               ],
             ),
           ),
